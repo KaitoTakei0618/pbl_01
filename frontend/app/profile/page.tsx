@@ -4,7 +4,6 @@ export default function ProfilePage() {
   return (
     <div>
       <h1>自己紹介</h1>
-
       <Image
         src="/profile.png"
         alt="プロフィール画像"
@@ -12,10 +11,11 @@ export default function ProfilePage() {
         height={100}
       />
 
+
       <p>武井 海渡</p>
         <p>
           <strong>所属：</strong>
-          法政大学
+          法政大学理工学部応用情報工学科
         </p>
 
         <p>
